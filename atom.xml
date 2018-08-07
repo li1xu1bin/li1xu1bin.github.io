@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我只是一只小前端</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://li1xu1bin.github.io/"/>
+  <updated>2018-08-07T06:32:58.656Z</updated>
+  <id>https://li1xu1bin.github.io/</id>
+  
+  <author>
+    <name>Selva</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>智能柜小程序</title>
+    <link href="https://li1xu1bin.github.io/2018/07/19/Wapp/"/>
+    <id>https://li1xu1bin.github.io/2018/07/19/Wapp/</id>
+    <published>2018-07-19T14:46:13.000Z</published>
+    <updated>2018-08-07T06:32:58.656Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a><a href="https://github.com/li1xu1bin/wxapp" target="_blank" rel="noopener">项目地址</a></h2><p><img src="/images/wapp.png" alt="image">  </p><h1 id="1-不规则形状实现"><a href="#1-不规则形状实现" class="headerlink" title="1.不规则形状实现"></a>1.不规则形状实现</h1><p>使用 clip-path 属性<br>circle() 中三个值分别由半径，一个圆心坐标点(x,y)组成，定义了圆的半径后，我们可以用 at 关键字来定义圆心坐标就像上面那样。同样的，不仅可以用百分比，也可以用像素来表示。</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="selector-tag">clip-path</span>: <span class="selector-tag">circle</span>(110% <span class="selector-tag">at</span> 50% 150%);</span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="2-模拟3D柜子"><a href="#2-模拟3D柜子" class="headerlink" title="2.模拟3D柜子"></a>2.模拟3D柜子</h1><p>使用transform 和 animation 属性</p><p><img src="/images/guizi.gif" alt="image">  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;项目地址&quot;&gt;&lt;a href=&quot;#项目地址&quot; class=&quot;headerlink&quot; title=&quot;项目地址&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/li1xu1bin/wxapp&quot; target=&quot;_blank&quot; rel=&quot;noopener
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vue云音乐</title>
+    <link href="https://li1xu1bin.github.io/2018/04/14/Vue/"/>
+    <id>https://li1xu1bin.github.io/2018/04/14/Vue/</id>
+    <published>2018-04-14T14:46:13.000Z</published>
+    <updated>2018-05-21T07:53:56.857Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Vue2仿网易云音乐"><a href="#Vue2仿网易云音乐" class="headerlink" title="Vue2仿网易云音乐"></a><a href="https://cn.vuejs.org//" target="_blank" rel="noopener">Vue2</a>仿网易云音乐</h1><h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a><a href="https://github.com/li1xu1bin/NEMusic" target="_blank" rel="noopener">项目地址</a></h2><p><img src="/images/nemusic.png" alt="image">  </p><h1 id="技术学习"><a href="#技术学习" class="headerlink" title="技术学习"></a>技术学习</h1><h2 id="Vue2-文档"><a href="#Vue2-文档" class="headerlink" title="Vue2 文档"></a><a href="https://cn.vuejs.org/v2/guide/" target="_blank" rel="noopener">Vue2 文档</a></h2><h2 id="Vuex-文档"><a href="#Vuex-文档" class="headerlink" title="Vuex 文档"></a><a href="https://vuex.vuejs.org/zh-cn/" target="_blank" rel="noopener">Vuex 文档</a></h2><h2 id="vue-router-文档"><a href="#vue-router-文档" class="headerlink" title="vue-router 文档"></a><a href="https://router.vuejs.org/zh-cn/" target="_blank" rel="noopener">vue-router 文档</a></h2><h2 id="vue-cli的webpack模板项目配置文件分析"><a href="#vue-cli的webpack模板项目配置文件分析" class="headerlink" title="vue-cli的webpack模板项目配置文件分析"></a><a href="https://blog.csdn.net/hongchh/article/details/55113751/" target="_blank" rel="noopener">vue-cli的webpack模板项目配置文件分析</a></h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Vue2仿网易云音乐&quot;&gt;&lt;a href=&quot;#Vue2仿网易云音乐&quot; class=&quot;headerlink&quot; title=&quot;Vue2仿网易云音乐&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://cn.vuejs.org//&quot; target=&quot;_blank&quot; rel=&quot;no
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>音乐播放器</title>
+    <link href="https://li1xu1bin.github.io/2018/03/24/musicplayer/"/>
+    <id>https://li1xu1bin.github.io/2018/03/24/musicplayer/</id>
+    <published>2018-03-24T03:03:00.000Z</published>
+    <updated>2018-03-29T02:44:36.563Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="基于React-Electron构建的多平台音乐播放器"><a href="#基于React-Electron构建的多平台音乐播放器" class="headerlink" title="基于React+Electron构建的多平台音乐播放器"></a>基于<a href="https://reactjs.org/" target="_blank" rel="noopener">React</a>+<a href="https://electronjs.org/" target="_blank" rel="noopener">Electron</a>构建的多平台音乐播放器</h1><h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a><a href="https://github.com/li1xu1bin/TTplayer" target="_blank" rel="noopener">项目地址</a></h2><p><img src="/images/music.png" alt="image">  </p><h1 id="技术学习"><a href="#技术学习" class="headerlink" title="技术学习"></a>技术学习</h1><h2 id="React-Router-使用教程"><a href="#React-Router-使用教程" class="headerlink" title="React Router 使用教程"></a><a href="http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu" target="_blank" rel="noopener">React Router 使用教程</a></h2><h2 id="Electron-中文文档"><a href="#Electron-中文文档" class="headerlink" title="Electron 中文文档"></a><a href="https://www.w3cschool.cn/electronmanual/" target="_blank" rel="noopener">Electron 中文文档</a></h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;基于React-Electron构建的多平台音乐播放器&quot;&gt;&lt;a href=&quot;#基于React-Electron构建的多平台音乐播放器&quot; class=&quot;headerlink&quot; title=&quot;基于React+Electron构建的多平台音乐播放器&quot;&gt;&lt;/a&gt;基于&lt;a 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iPhone X 快速适配</title>
+    <link href="https://li1xu1bin.github.io/2017/12/01/iPhone%20X/"/>
+    <id>https://li1xu1bin.github.io/2017/12/01/iPhone X/</id>
+    <published>2017-12-01T11:33:00.000Z</published>
+    <updated>2018-03-11T11:42:36.958Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/iphonex.png" alt="image">  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/iphonex.png&quot; alt=&quot;image&quot;&gt;  &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ooto UI Kit实际案例</title>
+    <link href="https://li1xu1bin.github.io/2017/10/12/ooto%20ui%20kit%E5%AE%9E%E9%99%85%E6%A1%88%E4%BE%8B/"/>
+    <id>https://li1xu1bin.github.io/2017/10/12/ooto ui kit实际案例/</id>
+    <published>2017-10-12T12:33:00.000Z</published>
+    <updated>2018-03-14T02:06:51.804Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><a href="https://li1xu1bin.github.io/ooto-ui/">Demo线上地址</a></p></blockquote><p><img src="/images/UI KIT2.png" alt="image">  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://li1xu1bin.github.io/ooto-ui/&quot;&gt;Demo线上地址&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/UI KIT2.png&quot; alt=&quot;image&quot;&gt; 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ooto UI Kit设计规范</title>
+    <link href="https://li1xu1bin.github.io/2017/09/20/ooto%20ui%20kit%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/"/>
+    <id>https://li1xu1bin.github.io/2017/09/20/ooto ui kit设计规范/</id>
+    <published>2017-09-20T12:33:00.000Z</published>
+    <updated>2018-03-14T02:07:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>灵感来源于ooto Productivity Dashboards<br>扩展成一整套UI Kit<br>编码实现也在同时进行中……</p></blockquote><p><img src="/images/UI KIT.png" alt="image">  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;灵感来源于ooto Productivity Dashboards&lt;br&gt;扩展成一整套UI Kit&lt;br&gt;编码实现也在同时进行中……&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/UI KIT.png&quot; alt=&quot;im
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>实验性布局</title>
+    <link href="https://li1xu1bin.github.io/2017/08/11/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    <id>https://li1xu1bin.github.io/2017/08/11/实验性/</id>
+    <published>2017-08-11T14:46:13.000Z</published>
+    <updated>2018-03-24T02:27:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-CSS-Grid驱动的不规则布局"><a href="#1-CSS-Grid驱动的不规则布局" class="headerlink" title="1.CSS Grid驱动的不规则布局"></a>1.CSS Grid驱动的不规则布局</h1><p><img src="/images/exp1.png" alt="image">  </p><h2 id="预览地址"><a href="#预览地址" class="headerlink" title="预览地址"></a><a href="https://li1xu1bin.github.io/exp-website/page1/index.html">预览地址</a></h2><h1 id="学习CSS-Grid"><a href="#学习CSS-Grid" class="headerlink" title="学习CSS Grid"></a>学习CSS Grid</h1><h2 id="我的笔记"><a href="#我的笔记" class="headerlink" title="我的笔记"></a><a href="https://note.youdao.com/share/?id=64a62390087f3cf8c8725f80fb5b2504&amp;type=note#/" target="_blank" rel="noopener">我的笔记</a></h2><h2 id="Grid布局指南"><a href="#Grid布局指南" class="headerlink" title="Grid布局指南"></a><a href="https://www.jianshu.com/p/d183265a8dad" target="_blank" rel="noopener">Grid布局指南</a></h2><h2 id="Grid布局调试器"><a href="#Grid布局调试器" class="headerlink" title="Grid布局调试器"></a><a href="https://alialaa.github.io/css-grid-cheat-sheet/" target="_blank" rel="noopener">Grid布局调试器</a></h2><h2 id="Grid花园"><a href="#Grid花园" class="headerlink" title="Grid花园"></a><a href="http://cssgridgarden.com/" target="_blank" rel="noopener">Grid花园</a></h2><h2 id="渐进增强的-CSS-布局"><a href="#渐进增强的-CSS-布局" class="headerlink" title="渐进增强的 CSS 布局"></a><a href="https://juejin.im/post/5987acfd6fb9a03c502288f3" target="_blank" rel="noopener">渐进增强的 CSS 布局</a></h2><h2 id="Grid构建圣杯布局"><a href="#Grid构建圣杯布局" class="headerlink" title="Grid构建圣杯布局"></a><a href="https://www.w3cplus.com/css3/holy-grail-layout-css-grid.html" target="_blank" rel="noopener">Grid构建圣杯布局</a></h2><h1 id="2-横向滚动布局"><a href="#2-横向滚动布局" class="headerlink" title="2.横向滚动布局"></a>2.横向滚动布局</h1><p><img src="/images/exp2.png" alt="image">  </p><h2 id="预览地址-1"><a href="#预览地址-1" class="headerlink" title="预览地址"></a><a href="https://li1xu1bin.github.io/exp-website/page2/index.html">预览地址</a></h2><h1 id="学习CSS-Flexbox"><a href="#学习CSS-Flexbox" class="headerlink" title="学习CSS Flexbox"></a>学习CSS Flexbox</h1><h2 id="我的笔记-1"><a href="#我的笔记-1" class="headerlink" title="我的笔记"></a><a href="http://note.youdao.com/noteshare?id=e2e70277f9465af4ae1c2fa2404bb336" target="_blank" rel="noopener">我的笔记</a></h2><h2 id="Flex-布局语法教程"><a href="#Flex-布局语法教程" class="headerlink" title="Flex 布局语法教程"></a><a href="http://www.runoob.com/w3cnote/flex-grammar.html" target="_blank" rel="noopener">Flex 布局语法教程</a></h2><h2 id="Flexbox池塘"><a href="#Flexbox池塘" class="headerlink" title="Flexbox池塘"></a><a href="http://flexboxfroggy.com/" target="_blank" rel="noopener">Flexbox池塘</a></h2><h2 id="Flexbox-快速上手记"><a href="#Flexbox-快速上手记" class="headerlink" title="Flexbox 快速上手记"></a><a href="http://www.shejidaren.com/css3-flexbox-quick-learning.html" target="_blank" rel="noopener">Flexbox 快速上手记</a></h2><h2 id="我们就来谈谈Flexbox布局"><a href="#我们就来谈谈Flexbox布局" class="headerlink" title="我们就来谈谈Flexbox布局"></a><a href="http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201603/443362.shtml" target="_blank" rel="noopener">我们就来谈谈Flexbox布局</a></h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;1-CSS-Grid驱动的不规则布局&quot;&gt;&lt;a href=&quot;#1-CSS-Grid驱动的不规则布局&quot; class=&quot;headerlink&quot; title=&quot;1.CSS Grid驱动的不规则布局&quot;&gt;&lt;/a&gt;1.CSS Grid驱动的不规则布局&lt;/h1&gt;&lt;p&gt;&lt;img s
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>移动端适配方案</title>
+    <link href="https://li1xu1bin.github.io/2017/05/01/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%80%82%E9%85%8D%E6%96%B9%E6%A1%88/"/>
+    <id>https://li1xu1bin.github.io/2017/05/01/移动端适配方案/</id>
+    <published>2017-05-01T14:33:00.000Z</published>
+    <updated>2018-03-13T07:44:38.334Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="0-基本概念"><a href="#0-基本概念" class="headerlink" title="0.基本概念"></a>0.基本概念</h1><p><img src="/images/dpr.png" alt="image"><br>以iPhone6为例：<br>物理像素为 750x1334<br>设备独立像素为 375x667<br>所以dpr=2</p><h1 id="1-宁馨儿成长记的方案"><a href="#1-宁馨儿成长记的方案" class="headerlink" title="1.宁馨儿成长记的方案"></a>1.宁馨儿成长记的方案</h1><p>移动端适配原理：<br>用下面这段JS动态设置html的font-size大小<br>Rem是相对于根元素html的font-size来做计算的单位</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">(<span class="function"><span class="keyword">function</span>(<span class="params">doc, win</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">var</span> docEl = doc.documentElement,</span><br><span class="line">            resizeEvt = <span class="string">'orientationchange'</span> <span class="keyword">in</span> <span class="built_in">window</span> ? <span class="string">'orientationchange'</span> : <span class="string">'resize'</span>,</span><br><span class="line">            recalc = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">                <span class="keyword">var</span> clientWidth = docEl.clientWidth;</span><br><span class="line">                <span class="keyword">if</span> (!clientWidth) <span class="keyword">return</span>;</span><br><span class="line">                docEl.style.fontSize = <span class="number">20</span> * (clientWidth / <span class="number">375</span>) + <span class="string">'px'</span>;</span><br><span class="line">            &#125;;</span><br><span class="line">         <span class="keyword">if</span> (!doc.addEventListener) <span class="keyword">return</span>;</span><br><span class="line">        win.addEventListener(resizeEvt, recalc, <span class="literal">false</span>);</span><br><span class="line">        doc.addEventListener(<span class="string">'DOMContentLoaded'</span>, recalc, <span class="literal">false</span>);</span><br><span class="line">&#125;)(<span class="built_in">document</span>, <span class="built_in">window</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><p>如果设计稿尺寸是375x667，iphone6的设备独立像素为375x667<br>所以iPhone6的fontsize是20*（375/375）=20px,即把1em当20px用<br>设计稿切出的某元素像素为220px,就写成220/20=11em<br>在线例子：</p><iframe id="cp_embed_oXRXLL" src="//codepen.io/li1xu1bin/embed/oXRXLL?height=400px&theme-id=dark&slug-hash=oXRXLL&default-tab=result" scrolling="no" frameborder="no" height="400px" allowtransparency="true" allowfullscreen="true" class="cp_embed_iframe" style="width: 900px; overflow: hidden;"></iframe><h1 id="2-手淘的flexible方案"><a href="#2-手淘的flexible方案" class="headerlink" title="2.手淘的flexible方案"></a>2.手淘的flexible方案</h1><p>上面这个例子的字体为什么不使用rem而是采用px呢？<br>因为字体大小使用rem，由于等比例的存在，在小屏幕下就会存在小屏幕字体更小的情况，不利于我们更好的去阅读，违背了适配的初衷。</p><p>所以更好的做法就是使用px和媒体查询来进行适配，比如flexible的方案：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">@<span class="keyword">mixin</span> font-dpr($font-size) &#123;</span><br><span class="line">    font-size: $font-size;</span><br><span class="line">     <span class="selector-attr">[data-dpr="2"]</span> &amp; &#123;</span><br><span class="line">       <span class="attribute">font-size</span>: $font-size * <span class="number">2</span>;</span><br><span class="line">    &#125;</span><br><span class="line">     <span class="selector-attr">[data-dpr="3"]</span> &amp; &#123;</span><br><span class="line">       <span class="attribute">font-size</span>: $font-size * <span class="number">3</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="使用Flexible实现手淘H5页面的终端适配"><a href="#使用Flexible实现手淘H5页面的终端适配" class="headerlink" title="使用Flexible实现手淘H5页面的终端适配"></a><a href="https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html" target="_blank" rel="noopener">使用Flexible实现手淘H5页面的终端适配</a></h2><h2 id="再聊移动端页面的适配"><a href="#再聊移动端页面的适配" class="headerlink" title="再聊移动端页面的适配"></a><a href="https://www.w3cplus.com/css/vw-for-layout.html" target="_blank" rel="noopener">再聊移动端页面的适配</a></h2><h2 id="px转Rem插件"><a href="#px转Rem插件" class="headerlink" title="px转Rem插件"></a><a href="https://github.com/flashlizi/cssrem" target="_blank" rel="noopener">px转Rem插件</a></h2><h1 id="3-图片自适应"><a href="#3-图片自适应" class="headerlink" title="3.图片自适应"></a>3.图片自适应</h1><p>方法一：使用 CSS 的 DevicePixelRatio 媒体查询属性</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/*默认大小*/</span></span><br><span class="line"><span class="selector-class">.photo</span> &#123;<span class="attribute">background-image</span>: <span class="built_in">url</span>(image100.png);&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 如果设备像素大于等于2，则用2倍图 */</span></span><br><span class="line">@<span class="keyword">media</span> screen and (-webkit-min-device-pixel-ratio: <span class="number">2</span>),</span><br><span class="line">screen and (min--moz-device-pixel-ratio: <span class="number">2</span>) &#123;</span><br><span class="line">  <span class="selector-class">.photo</span> &#123;</span><br><span class="line">    <span class="attribute">background-image</span>: <span class="built_in">url</span>(image200.png);</span><br><span class="line">    <span class="attribute">background-size</span>: <span class="number">100px</span> <span class="number">100px</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 如果设备像素大于等于3，则用3倍图 */</span></span><br><span class="line">@<span class="keyword">media</span> screen and (-webkit-min-device-pixel-ratio: <span class="number">3</span>),</span><br><span class="line">screen and (min--moz-device-pixel-ratio: <span class="number">3</span>) &#123;</span><br><span class="line">  <span class="selector-class">.photo</span> &#123;</span><br><span class="line">    <span class="attribute">background-image</span>: <span class="built_in">url</span>(image300.png);</span><br><span class="line">    <span class="attribute">background-size</span>: <span class="number">100px</span> <span class="number">100px</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>方法二:直接使用 IMG 的 SRCSET 属性</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">width</span>=<span class="string">"100"</span> <span class="attr">height</span>=<span class="string">"100"</span> <span class="attr">src</span>=<span class="string">"image100.png"</span> <span class="attr">srcset</span>=<span class="string">"image200.png 2x,image300.png 3x"</span>/&gt;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="4-响应式和自适应的区别"><a href="#4-响应式和自适应的区别" class="headerlink" title="4.响应式和自适应的区别"></a>4.响应式和自适应的区别</h1><p>响应式针对的是不同分辨率设备而进行的适配式设计，以利用@media规则为主要手段，而自适应则忽略@media以比例布局为主，目的是适应不同的浏览器窗口大小。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;0-基本概念&quot;&gt;&lt;a href=&quot;#0-基本概念&quot; class=&quot;headerlink&quot; title=&quot;0.基本概念&quot;&gt;&lt;/a&gt;0.基本概念&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/images/dpr.png&quot; alt=&quot;image&quot;&gt;&lt;br&gt;以iPhone6为例：
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>宁馨儿成长记</title>
+    <link href="https://li1xu1bin.github.io/2017/04/17/%E5%AE%81%E9%A6%A8%E5%84%BF%E6%88%90%E9%95%BF%E8%AE%B0/"/>
+    <id>https://li1xu1bin.github.io/2017/04/17/宁馨儿成长记/</id>
+    <published>2017-04-17T12:33:00.000Z</published>
+    <updated>2018-03-12T06:17:43.289Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是我第一次尝试UI设计<br>亲自参与界面设计，更深入地研究用户体验<br>结合前端知识，实现可用性和易用性都更佳的界面<br><a href="https://itunes.apple.com/cn/app/id1236608815?mt=8" target="_blank" rel="noopener">Apple store上线地址</a></p></blockquote><p><img src="/images/1443750.png" alt="image"><br><img src="/images/1443751.png" alt="image">  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;这是我第一次尝试UI设计&lt;br&gt;亲自参与界面设计，更深入地研究用户体验&lt;br&gt;结合前端知识，实现可用性和易用性都更佳的界面&lt;br&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/id1236608815?mt=8&quot; 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>爱儿宝APP着陆页设计</title>
+    <link href="https://li1xu1bin.github.io/2017/03/11/%E7%9D%80%E9%99%86%E9%A1%B5%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://li1xu1bin.github.io/2017/03/11/着陆页设计/</id>
+    <published>2017-03-11T11:33:00.000Z</published>
+    <updated>2018-05-14T02:27:57.488Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/landing.png" alt="image">  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/landing.png&quot; alt=&quot;image&quot;&gt;  &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
